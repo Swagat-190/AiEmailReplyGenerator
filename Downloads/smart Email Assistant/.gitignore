@@ -1,0 +1,47 @@
+# Downloaded files and system files
+*.exe
+*.zip
+*.pdf
+*.docx
+*.pptx
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mp4
+*.mp3
+*.download
+*.jar
+*.o
+*.pyc
+
+# System files
+.DS_Store
+desktop.ini
+thumbs.db
+NTUSER.DAT*
+*.LOG*
+
+# Directories to ignore
+**/.idea/
+**/.vscode/
+**/node_modules/
+**/target/
+**/.gradle/
+**/dist/
+**/build/
+**/__pycache__/
+**/venv/
+*.log
+
+# IDE files
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Project specific ignored patterns
+Hello.html.ext/
