@@ -13,18 +13,28 @@ An intelligent email assistant that uses **Google's Gemini AI** to automatically
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Project Architecture](#project-architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
+- [Features](#-features)
+- [Project Architecture](#-project-architecture)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Usage](#-usage)
+- [API Documentation](#-api-documentation)
+- [Project Structure](#-project-structure)
+- [Technologies Used](#-technologies-used)
+- [Features Breakdown](#-features-breakdown)
+- [AI Capabilities](#-ai-capabilities)
+- [Performance Optimization](#-performance-optimization)
+- [API Rate Limiting](#-api-rate-limiting)
+- [Security Considerations](#-security-considerations)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support & Contact](#-support--contact)
+- [Learning Resources](#-learning-resources)
+- [Acknowledgments](#-acknowledgments)
+- [Roadmap](#-roadmap)
+- [Show Your Support](#-show-your-support)
+- [Troubleshooting](#-troubleshooting)
 
 ---
 
@@ -619,8 +629,8 @@ copies or substantial portions of the Software.
 ## 📧 Support & Contact
 
 - **GitHub Issues:** [Report bugs here](https://github.com/Swagat-190/AiEmailReplyGenerator/issues)
-- **Email:** swagatm190@gmail.com
-- 
+- **Email:** contact@emailassistant.dev
+- **Documentation:** Check HELP.md in each folder
 
 ---
 
