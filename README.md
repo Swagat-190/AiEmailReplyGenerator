@@ -619,8 +619,8 @@ copies or substantial portions of the Software.
 ## 📧 Support & Contact
 
 - **GitHub Issues:** [Report bugs here](https://github.com/Swagat-190/AiEmailReplyGenerator/issues)
-- **Email:** contact@emailassistant.dev
-- **Documentation:** Check HELP.md in each folder
+- **Email:** swagatm190@gmail.com
+- 
 
 ---
 
